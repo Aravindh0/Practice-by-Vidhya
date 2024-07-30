@@ -1,5 +1,9 @@
 a = 1
 b = 2
 c = a + b 
+<<<<<<< HEAD
 Print("vidhya")
+=======
+d = c * b
+>>>>>>> Test-vidhya
 print (c)
